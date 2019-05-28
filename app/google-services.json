@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "80427374008",
+    "firebase_url": "https://mlkit-d2c0d.firebaseio.com",
+    "project_id": "mlkit-d2c0d",
+    "storage_bucket": "mlkit-d2c0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80427374008:android:c3902586f7ce4218",
+        "android_client_info": {
+          "package_name": "org.avantari.tensorflowdemoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80427374008-60qhir7hdbhe4ohk2ftq3fj9n0mtmndt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVrJhXMZ7UrUorIoVk2dYysonhQ0eHdLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80427374008-60qhir7hdbhe4ohk2ftq3fj9n0mtmndt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
